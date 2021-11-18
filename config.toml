@@ -52,7 +52,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Welcome to my little corner of the internet. On this webiste you will find my writing, both technical and non-technical). If you're interested in learning a little more about me, visit the 'About' page. Thank you for visiting, and enjoy your stay."
+  description = "Welcome to my little corner of the internet. On this webiste you will find my writings, both technical and non-technical. If you're interested in learning more about me, visit the 'About' page. Thank you for visiting, and enjoy your stay."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
